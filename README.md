@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Adil (He/Him)
+## Hi there 👋 My name is Adil 
 
 - 🔭 I’m in my last year at University working on a web application for a course project... coming soon!
 - 🌱 On the side, I'm teaching myself AI & AWS through Udemy & LinkedIn Learning!
