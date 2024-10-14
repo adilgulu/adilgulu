@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Adil 
 
 - 🔭 I’m in my last year at University working on a web application for a course project... coming soon!
-- 🌱 On the side, I'm teaching myself AI & AWS through Udemy & LinkedIn Learning!
+- 🌱 On the side, I'm learning AI & AWS through Udemy!
 - ⚡ When I'm not working or studying, I'm either at the gym, playing video games, or on a joy ride listening to music!
 - 📫 You can reach me at ad.guluzade@gmail.com
 
